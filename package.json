@@ -38,9 +38,9 @@
   },
   "homepage": "https://github.com/hamedasemi/lit-element-router#readme",
   "devDependencies": {
-    "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.0",
-    "@babel/register": "^7.16.0",
+    "@babel/core": "^8.0.0",
+    "@babel/preset-env": "^8.0.0",
+    "@babel/register": "^8.0.0",
     "asserts": "^4.0.2",
     "chai": "^4.3.4",
     "coveralls": "^3.1.1",
